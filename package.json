@@ -1,0 +1,25 @@
+{
+  "name": "jqv",
+  "version": "1.0.0",
+  "bin": {
+    "jqv": "./index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Migada Perera",
+  "license": "MIT",
+  "packageManager": "pnpm@10.7.0",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "highlight.js": "^11.11.1",
+    "jqjs.git": "github:mwh/jqjs"
+  },
+  "devDependencies": {
+    "nexe": "5.0.0-beta.4"
+  }
+}

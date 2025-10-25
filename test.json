@@ -1,0 +1,21 @@
+{
+  "x": { "y": 8, "z": 10, "a": 32, "b": 16 },
+  "posts": [
+    {
+      "comments": ["One comment"],
+      "title": "A post"
+    },
+    {
+      "comments": [],
+      "title": "Another post"
+    },
+    {
+      "comments": ["2", "2343", "starst"],
+      "title": "blarst"
+    },
+    {
+      "comments": ["wfprst", "arst", "stff"],
+      "title": "arsts"
+    }
+  ]
+}
